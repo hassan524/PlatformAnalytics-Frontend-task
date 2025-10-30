@@ -86,7 +86,7 @@ export default function SingersCustomersChart({
               barSize={14}
               name="Customer's"
             >
-              {data.map((entry, index) => (
+              {data.map((_, index) => (
                 <Cell
                   key={`cell-${index}`}
                   fill={hoverIndex === index ? '#5a3a9f' : '#D1D5DB'}
