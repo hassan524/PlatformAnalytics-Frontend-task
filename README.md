@@ -20,7 +20,7 @@ It visualizes booking trends, event performance, and platform insights using mod
 
 ```bash
 # Clone the repository, install dependencies, and start the development server
-git clone https://github.com/your-username/platform-analytics-page.git && cd platform-analytics-page && npm install && npm run dev
+git clone https://github.com/your-username/platform-analytics-page.git
 
 # Run local development server
 npm run dev
