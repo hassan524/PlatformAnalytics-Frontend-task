@@ -1,0 +1,16 @@
+body {
+  width: 100vw;
+  scrollbar-width: none;
+}
+
+*,
+body {
+  overflow-x: hidden;
+}
+
+.recharts-layer {
+  padding: 500px !important;
+}
+.scroll-none {
+  scrollbar-width: none;
+}
